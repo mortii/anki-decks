@@ -1,6 +1,6 @@
 # Japanese to English Sentences Anki Deck
 
-[Google Drive Download (2.2GB)](https://drive.google.com/file/d/1AEWKxe86FlIrAqnDRhjH7l-p1RnIINVf/view?usp=sharing)
+[Google Drive Download (2.2GB)](https://drive.google.com/file/d/1uSJ4RTBWYtysmL4i1AM2w8el5beUfMMv/view?usp=sharing)
 
 The deck contains ~37K japanese to english sentences. It has the following sub-decks:
 
